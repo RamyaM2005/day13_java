@@ -1,4 +1,4 @@
-  public class Try_Throw_Catch
+  public class Try_Catch_Finally
   {
     public static void main(String args[])
     {
